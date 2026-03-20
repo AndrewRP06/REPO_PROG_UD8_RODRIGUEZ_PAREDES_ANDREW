@@ -18,8 +18,8 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 
 | Ejercicio | Descripción | Enlace |
 | :--- | :--- | :--- |
-| **Ejercicio 01** | Descripción breve del primer ejercicio. | [Ver Código](./a01) |
-| **Ejercicio 02** | Descripción breve del segundo ejercicio. | [Ver Código](./ejercicio02) |
+| **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./a01) |
+| **Ejercicio 02** | Pasarela de Pagos:. | [Ver Código](./a02) |
 | **Práctica Final** | Proyecto integrador de la unidad 8. | [Ver Código](./practica-final) |
 
 ---
