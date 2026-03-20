@@ -15,7 +15,7 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 ---
 
 ## 📂 Estructura del Repositorio
-
+ 
 | Ejercicio | Descripción | Enlace |
 | :--- | :--- | :--- |
 | **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./a01) |
