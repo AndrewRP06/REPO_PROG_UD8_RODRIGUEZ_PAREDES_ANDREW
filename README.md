@@ -28,4 +28,4 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/tu-usuario/REPO_PROG_UD8_RODRIGUEZ_PAREDES_ANDREW.git](https://github.com/tu-usuario/REPO_PROG_UD8_RODRIGUEZ_PAREDES_ANDREW.git)
+   git clone [https://github.com/PiterJackson911/REPO_PROG_UD8_RODRIGUEZ_PAREDES_ANDREW)
