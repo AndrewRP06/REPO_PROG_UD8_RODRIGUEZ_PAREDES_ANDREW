@@ -20,9 +20,9 @@ Este repositorio contiene las soluciones desarrolladas para los desafíos de pro
 | :--- | :--- | :--- |
 | **Ejercicio 01** | Ecosistema de dispositivos conectados:| [Ver Código](./a01) |
 | **Ejercicio 02** | Pasarela de Pagos:. | [Ver Código](./a02) |
-| **Ejercicio 03** | Pasarela de Pagos:. | [Ver Código](./a03) |
-| **Ejercicio 04** | Pasarela de Pagos:. | [Ver Código](./a04) |
-| **Ejercicio 05** | Pasarela de Pagos:. | [Ver Código](./a05) |
+| **Ejercicio 03** | Centralita de notificaciones:. | [Ver Código](./a03) |
+| **Ejercicio 04** | Dispositivos de oficina:. | [Ver Código](./a04) |
+| **Ejercicio 05** | La notificación temporal:. | [Ver Código](./a05) |
 
 | **Práctica Final** | Proyecto integrador de la unidad 8(de momoento no). | [Ver Código](./practica-final) |
 
