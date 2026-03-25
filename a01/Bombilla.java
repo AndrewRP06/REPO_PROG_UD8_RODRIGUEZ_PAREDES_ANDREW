@@ -1,8 +1,8 @@
 package a01;
 
 public class Bombilla implements DispositivoConectado {
-    private boolean encendida = false;
-
+    private boolean encendida = false; 
+    
     @Override
     public void encender() {
         encendida = true;
